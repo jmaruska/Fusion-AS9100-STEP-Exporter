@@ -28,3 +28,4 @@ This add-in provides a streamlined interface for exporting STEP files from Fusio
 6. Find "AS9100_STEP_Exporter" in the list
 7. Select it and click **Run**
 8. Check "Run on Startup" if you want it to load automatically
+9. The add-in icon will apear in the Utilities > Add-ins toolbar and can be assigned a key command (I typically use "cmd/ctrl-e")
