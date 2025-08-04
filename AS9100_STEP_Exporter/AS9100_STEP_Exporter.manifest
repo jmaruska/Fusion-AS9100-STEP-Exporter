@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "author": "joshua maruska",
+    "description": {
+        "": "An addin to export the current design as a STEP file with advanced naming options for AS9100 compliance."
+    },
+    "version": "0.1.0",
+    "runOnStartup": true,
+    "supportedOS": "windows|mac"
+}
